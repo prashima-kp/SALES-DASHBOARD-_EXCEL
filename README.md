@@ -1,9 +1,8 @@
-# SALES-DASHBOARD-_EXCEL
-Interactive Excel dashboard analyzing supermarket sales, profit, and regional performance
+## Sales Dashboard in Excel
 
 # Project Overview
 
-This project is an interactive Excel dashboard built to analyze supermarket sales, profit, and regional performance. It helps identify top-performing categories, profitable regions, and overall business trends.
+This project is an interactive Excel dashboard designed to analyze supermarket sales, profit, and regional performance. The dashboard provides insights into key business metrics and helps identify trends across categories and regions.
 
 # Tools Used
 
@@ -15,7 +14,7 @@ This project is an interactive Excel dashboard built to analyze supermarket sale
 
 # Dataset Information
 
-The dataset contains:
+The dataset includes:
 
 - Order Date
 - Region
@@ -29,26 +28,26 @@ The dataset contains:
 # Dashboard Features
 
 - Sales and Profit KPIs
+- Category-wise Sales Analysis
 - Regional Performance Analysis
-- Category-wise Sales Comparison
 - Monthly Sales Trends
-- Interactive Filters using Slicers
+- Interactive Filters with Slicers
 
 # Key Insights
 
-- Technology category generated the highest sales.
-- West region delivered the highest profit.
-- Some discounted products reduced profit margins.
+- Technology generated the highest sales.
+- The West region delivered the highest profit.
+- Higher discounts reduced profitability for some products.
 
-# Skills Demonstrated
+ # Skills Demonstrated
 
 - Data Cleaning
 - Data Analysis
 - Dashboard Design
+- Data Visualization
 - Business Insight Generation
-
 # Dashboard overview
-<img width="1393" height="621" alt="Screenshot 2026-05-12 124753" src="https://github.com/user-attachments/assets/d72871a0-257e-47ce-ae51-7cfc10ca6292" />
+<img width="1393" height="621" alt="Screenshot 2026-05-12 124753" src="https://github.com/user-attachments/assets/eedbdb96-80ee-4c1d-a5b5-bf20e831a1b8" />
 
 Author
 
